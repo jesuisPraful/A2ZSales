@@ -1,0 +1,6 @@
+@A2ZSalesWebServices_HostAddress = http://localhost:5253
+
+GET {{A2ZSalesWebServices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
